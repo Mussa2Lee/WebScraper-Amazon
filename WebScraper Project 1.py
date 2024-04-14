@@ -82,7 +82,7 @@ data= [title,price,day]
 
 
 import pandas as pd
-df = pd.read_csv(r'C:\Users\tulih\WebScraper1Data.csv')
+df = pd.read_csv(r'C:\Users\local\WebScraper1Data.csv')
 print(df)
 
 
@@ -101,7 +101,7 @@ with open('WebScraper1Data.csv', 'a+', newline= '', encoding='UTF8') as f:
 
 
 import pandas as pd
-df = pd.read_csv(r'C:\Users\tulih\WebScraper1Data.csv')
+df = pd.read_csv(r'C:\Users\local\WebScraper1Data.csv')
 print(df)
 
 
@@ -164,7 +164,7 @@ while(True):
 
 
 import pandas as pd
-df = pd.read_csv(r'C:\Users\tulih\WebScraper1Data.csv')
+df = pd.read_csv(r'C:\Users\local\WebScraper1Data.csv')
 
 print(df)
 
